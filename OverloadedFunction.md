@@ -1,6 +1,6 @@
-### 개요
-복수의 함수를 하나의 함수 오브젝트로 모아서 사용한다.
-
+## 개요
+복수의 함수를 하나의 함수 오브젝트로 모아서 사용한다.  
+  
 ```
 // 출처: http://d.hatena.ne.jp/osyo-manga/20140213/1392299962
 #include <boost/functional/overloaded_function.hpp>
@@ -35,3 +35,4 @@ int main()
 	return 0;
 }
 ```
+  

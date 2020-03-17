@@ -1,102 +1,56 @@
-### 정리 작업 리스트
-[(일어)boost 라이브러리 정보](http://boostjp.github.io/  )  
-
-Boost 1.68.0リリースノート  https://boostjp.github.io/document/version/1_68_0.html   
-Boost 1.50.0で追加されたライブラリ達  http://flast.hateblo.jp/entry/2012/07/04/151104   
+# 정리 작업 리스트
+https://www.boost.org/  
   
+[(일어)boost 라이브러리 정보](http://boostjp.github.io/  )    
   
 Boost.HOFについて  https://nekko1119.hatenablog.com/entry/2018/08/24/010924   
+Boost String Algorithms Library http://d.hatena.ne.jp/kanetai/20111017/1318846372      
+Boost で文字列の置換  http://d.hatena.ne.jp/osyo-manga/20120512/1336811661  
+参照を保持するコンテナ  http://faithandbrave.hateblo.jp/entry/20110519/1305789940  
+boost::in_place  http://nekko1119.hatenablog.com/entry/20121122/1353577143     
+プラグインシステムを Boost.DLL で簡単に実装する紹介  http://qiita.com/usagi/items/0722550dc5433bd07139   
   
-C++/Boostでオブジェクトへのアクセスを同期する方法メモ  http://d.hatena.ne.jp/iorate/20130222/1361538198   
-  
-Boost라이브러리의내부구조 http://www.slideshare.net/JintaekSeo88/boost-20151111   
   
 Boost offset_ptrと共有メモリとmmap  http://www.jinmei.org/blog/2012/05/20/3126   
-  
-boost::numeric::interval<int>(0): C++ Boost 区間演算ライブラリ 概要  http://qiita.com/items/7712671389e016d24df6  
-  
-boost 를 사용한 command line 분석  http://jinhokwon.blogspot.kr/2012/09/boost-command-line.html   
-  
-Boost のファイルのうち必要なものだけを?き出す  http://d.hatena.ne.jp/Cryolite/20051025#p   
-  
-Brief introduction of Boost.IC  http://www.slideshare.net/yak1ex/brief-introduction-of-boosticl-7068238  
-  
 PropertyTree  http://d.hatena.ne.jp/tt_clown/20091022/1256205859   
-스트링 알고리즘  http://www.boost.org/doc/libs/1_42_0/doc/html/string_algo/usage.html#id1718151   
-Boost String Algorithms Library http://d.hatena.ne.jp/kanetai/20111017/1318846372    
-  
-boost::overloaded_functionを使ったオーバーロードって素晴らしいですよね！  
-http://sscrisk.hatenablog.com/entry/2013/10/13/boost%3A%3Aoverloaded_function%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E3%81%A3%E3%81%A6%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E3%81%A7  
-  
-参照を保持するコンテナ  http://faithandbrave.hateblo.jp/entry/20110519/1305789940   
-  
-  
-Continuation with Boost.Context  http://www.slideshare.net/faithandbrave/continuation-with-boostcontext  
-  
-Boost で文字列の置換  http://d.hatena.ne.jp/osyo-manga/20120512/1336811661  
-  
-variantの実装(1) -みんな大好きテンプレートメタプログラミング！  http://d.hatena.ne.jp/setuna-kanata/20100209/1265738822
-  
-boost::variantでポリモーフィズムっぽい変なことをする  http://qiita.com/Ushio@github/items/aadc8de96af0f1d04f1a   
-  
-Boost.Variantのpolymorphic_get関数  http://dev.activebasic.com/egtra/2016/02/23/871/   
-  
-はまったこと: 完了通知 (completion handler) の呼び出し忘れ  http://qiita.com/kaoru/items/4421c30df68a848039f1   
-  
-boost.date_time.now  http://qiita.com/muchi_ko/items/818c8b32b025b859657f   
+boost로 선현대수 입문  http://www.slideshare.net/wof_moriguchi/boost-8139529  
   
 boost::numeric::interval<int>  
 http://qiita.com/t_uda/items/e4f554b8af864b638a6d   
 http://qiita.com/t_uda/items/abcf31a7b1787604a4f4   
 http://qiita.com/items/e08ca64b318917e6d4ab   
-  
 boost::numeric::interval<int>(0): C++ Boost 区間演算ライブラリ 概要  http://qiita.com/t_uda/items/7712671389e016d24df6   
   
-boost::in_place  http://nekko1119.hatenablog.com/entry/20121122/1353577143   
-
-Boost.Flyweightのお勉?  http://tips.hecomi.com/entry/20111022/1319302933  
+Boost.Flyweightのお勉?  http://tips.hecomi.com/entry/20111022/1319302933    
+boost::multiprecision の使い方メモ  http://qiita.com/tubo28/items/fa8ee013390184b0ba18     
+boost::processの子プロセスの入力を閉じる    https://qiita.com/cielavenir/items/9219162170cf2dd8b144  
+BoostCon 2011の「Practical SIMD acceleration with Boost.SIMD」を日本語?しました  http://www.slideshare.net/faithandbrave/boostsimd     
   
-boost::multiprecision の使い方メモ  http://qiita.com/tubo28/items/fa8ee013390184b0ba18   
   
-Boost.Convert デフォルトコンバータ   http://faithandbrave.hateblo.jp/entry/2015/11/13/160619   
+  
+## QVM
+행열 계산 라이브러리.  
   
 Boost QVM(Quaternions, Vectors, Matrices)に触ってみた  http://qiita.com/yacohana/items/c249ade084c41e68da29   
 Boost.QVM入門  https://qiita.com/agate-pris/items/3e0bb170e5c6356df108   
   
-プラグインシステムを Boost.DLL で簡単に実装する紹介  http://qiita.com/usagi/items/0722550dc5433bd07139   
-  
-Boost.Lockfree ロックフリ?コンテナの制限  http://d.hatena.ne.jp/faith_and_brave/20130213/1360737911  
-  
-Boost.Computeでグラボを燃やす  http://okdshin.hatenablog.com/entry/2015/12/13/   
-  
-BoostCon 2011の「Practical SIMD acceleration with Boost.SIMD」を日本語?しました  
-http://d.hatena.ne.jp/faith_and_brave/20110531/1306808131   
-http://www.slideshare.net/faithandbrave/boostsimd   
-
-BoostCon2011에서 발표된 B-tree라이브러리 제안  http://d.hatena.ne.jp/eldesh/20110527/1306467380  
-  
-boost로 선현대수 입문  http://www.slideshare.net/wof_moriguchi/boost-8139529  
   
   
 ## program_options
 boost::program_options   http://nekko1119.hatenablog.com/entry/20130414/1365921531   
-  
 コマンドライン引?をboost::program_optionsで格納   http://tips.hecomi.com/entry/20110210/1297353366   
   
   
   
 ## Beast 
 beast_http_server  https://github.com/0xdead4ead/beast_http_server   
+Boost.Beast で websocket の handshake に custom request header をつける方法  https://qiita.com/UedaTakeyuki/items/9b8fcc344690b8e7cded  
   
   
    
-## Boost.Random 
-Boost.Random 分布クラスの範?の違い  http://d.hatena.ne.jp/faith_and_brave/20121113/1352793039   
-Boost.Random ジェネレ?タの?態を保存?復?する  http://d.hatena.ne.jp/faith_and_brave/20130410/1365583499  
   
-  
-  
-Boost.Context について調べた  http://d.hatena.ne.jp/melpon/20111213/1323704464   
+## Boost.Context
+Boost.Context について調べた  http://d.hatena.ne.jp/melpon/20111213/1323704464    
   
 Continuation with Boost.Context  http://www.slideshare.net/faithandbrave/continuation-with-boostcontext   
   
@@ -106,7 +60,6 @@ boost.contextを使ってみました  http://d1z.cocolog-nifty.com/blog/2012/02
   
 Boost.Contextでファイバ?ライブラリを??してみた  http://yohhoy.hatenablog.jp/entry/2012/04/10/003735   
    
-  
   
 Coroutine , fiber 実行コンテキストの抽象化ライブラリ達  
 http://www.flast.jp/article/boost-21-sapporo/index.html   
@@ -170,6 +123,7 @@ entry point疑似?態の??の制約とその??策  http://d.hatena.ne.jp/redbolt
   
   
 ## Hana
+Boost.Hana の紹介！  https://qiita.com/alphya/items/94dcfc4dd08445f9c62b  
 Use the official Boost.Hana with MSVC 2017 Update 8 compiler  https://blogs.msdn.microsoft.com/vcblog/2018/08/30/use-the-official-boost-hana-with-msvc-2017-update-8-compiler/   
   
   
@@ -230,6 +184,7 @@ Try to use boost.mpl  http://www.slideshare.net/Suikaba/try-to-use-boostmpl
 ## PP 
 Boost PP  http://www.slideshare.net/Suikaba/try-to-use-boostmpl   
 明日から使える boost/preprocessor/facilities/  https://dechimal.hatenadiary.com/entry/20101214/1292354432   
+BOOST_PP_REPEATの仕組み  https://qiita.com/hikarin522/items/5329647ec2a542653f68  
 BOOST_PP_REPEAT  http://nekko1119.hatenablog.com/entry/2013/05/01/010105   
 Boost.PP 闇魔術を触ってみた  http://www.slideshare.net/DtYaZsK/ss-32425592  
   
