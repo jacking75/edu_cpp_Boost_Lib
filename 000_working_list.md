@@ -28,6 +28,59 @@ BoostCon 2011の「Practical SIMD acceleration with Boost.SIMD」を日本語?�
   
   
   
+##TypeErasure 
+Boost.TypeErasure を使ってみる  http://d.hatena.ne.jp/osyo-manga/20121202/1354456126   
+Boost.TypeErasureのドキュメントを翻訳してみた  http://d.hatena.ne.jp/gununu/20130705/1372983790  
+  
+  
+  
+## TTI
+Boost.TTI を使ってみる  http://d.hatena.ne.jp/osyo-manga/20130707/1373170326   
+Boost.TTI  http://d.hatena.ne.jp/osyo-manga/20111230/1325213907   
+C++03で、特定のメンバ関数が存在するかを判定する http://faithandbrave.hateblo.jp/entry/2014/04/14/152959   
+  
+  
+  
+## 컨테이너
+boost::container で俺俺アロケ?タ  http://www.6809.net/tenk/?%E9%9B%91%E8%A8%98%2f2012-12-14  
+stable_vector  http://d.hatena.ne.jp/fjnl/20111207/1323269108  
+static_vector  http://d.hatena.ne.jp/faith_and_brave/20130712/1373614497   
+boost 1.48.0 flat_set はえー  http://blogs.wankuma.com/episteme/archive/2012/01/21/250181.aspx  
+Boost.Heap コンテナの設定  http://d.hatena.ne.jp/faith_and_brave/20120510/1336641311  
+Intrusive data structure 소개  http://www.slideshare.net/ohyecloudy/intrusive-data-structure   
+Boost.Containerのフツーじゃないコンテナたち  http://codezine.jp/article/detail/8259   
+static_vectorとsmall_vector https://qiita.com/shohirose/items/54d75b12abd452ee2786   
+  
+  
+  
+## multi_index
+Boost 설명서 http://www24.atwiki.jp/reisiki/pages/59.html   
+간단 사용법 http://d.hatena.ne.jp/osyo-manga/20101030/1288408414 , http://grayhole.blogspot.com/2009/03/boostmultiindex.html   
+편리한 조건에 대해서 http://d.hatena.ne.jp/sakura-1/20090816/1250429894  ,  http://d.hatena.ne.jp/sakura-1/20090818#1250599374  
+바운드리 검색 http://www.boost.org/doc/libs/1_47_0/libs/multi_index/doc/tutorial/basics.html  
+Key modify http://d.hatena.ne.jp/faith_and_brave/20100625/1277450332  
+Boost.MultiIndex - member_offset http://d.hatena.ne.jp/faith_and_brave/20110510/1305001676   
+(1.59 이상)Boost.Multi-index ランク付きインデックス http://faithandbrave.hateblo.jp/entry/2015/07/22/144646   
+  
+  
+## Pool
+shared_ptr는 내부에 참조 카운트 용으로 new에서 메모리를 확보하므로 메모리 풀과 결합하는 방법이 까다롭고 boost::intrusive_ptr와 조합하는 방법이 편하다.  
+메모리를 확보한 순서로 메모리 해제를 하면 object_pool 이 boost::pool 보다 느리다.  
+  
+C++/Boost boost::poolの大まかな使い方   http://blogs.yahoo.co.jp/nanashi_hippie/52188424.html   
+boostのobject_poolをスマートポインタで利用する   http://d.hatena.ne.jp/ytakano/20100317/1268778286   
+  
+  
+  
+## PP 
+Boost PP  http://www.slideshare.net/Suikaba/try-to-use-boostmpl   
+明日から使える boost/preprocessor/facilities/  https://dechimal.hatenadiary.com/entry/20101214/1292354432   
+BOOST_PP_REPEATの仕組み  https://qiita.com/hikarin522/items/5329647ec2a542653f68  
+BOOST_PP_REPEAT  http://nekko1119.hatenablog.com/entry/2013/05/01/010105   
+Boost.PP 闇魔術を触ってみた  http://www.slideshare.net/DtYaZsK/ss-32425592  
+  
+  
+  
 ## QVM
 행열 계산 라이브러리.  
   
@@ -48,6 +101,30 @@ Boost.Beast で websocket の handshake に custom request header をつける�
   
   
    
+## Preprocessor
+세미나 자료  http://d.hatena.ne.jp/DigitalGhost/20091213/1260732009  
+소개  http://cpplover.blogspot.com/2008/07/boostpreprocessor-meta-programming.html  
+일본어 홈페이지  http://boost.cppll.jp/HEAD/libs/preprocessor/doc/index.html  
+boost.Preprocessor - enum과 문자열의 매핑   http://ricanet.com/new/view.php?id=blog/080607  
+Boost::preprocessor 로 템플릿 코드 생성  http://rein.kr/blog/archives/486  
+boost::tuple 의 직렬화 코드	http://reiot.com/2009/02/17/boost-preprocessor/  
+  http://www.kmonos.net/alang/boost/classes/preprocessor.html  
+http://d.hatena.ne.jp/DigitalGhost/searchdiary?word=*[Preprocessor]&  
+  http://d.hatena.ne.jp/mb2sync/archive?word=*[Boost.Preprocessor]  
+  http://slashdot.jp/~A7M/journal/481116  
+  http://idlysphere.blog66.fc2.com/blog-entry-175.html  
+  http://cpplover.blogspot.com/2008/07/blog-post_17.html  
+  
+  
+  
+## mpl 
+Try to use boost.mpl  http://www.slideshare.net/Suikaba/try-to-use-boostmpl     
+'11年代のMPL  https://kikairoya.hatenablog.com/entry/20111206/1323183937   
+  
+  
+  
+## wave 
+http://www.ruche-home.net/program/boost/wave   
   
 ## Boost.Context
 Boost.Context について調べた  http://d.hatena.ne.jp/melpon/20111213/1323704464    
@@ -159,42 +236,6 @@ http://0x35.tumblr.com/post/16706887475/boost-proto
   
    
   
-## Preprocessor
-세미나 자료  http://d.hatena.ne.jp/DigitalGhost/20091213/1260732009  
-소개  http://cpplover.blogspot.com/2008/07/boostpreprocessor-meta-programming.html  
-일본어 홈페이지  http://boost.cppll.jp/HEAD/libs/preprocessor/doc/index.html  
-boost.Preprocessor - enum과 문자열의 매핑   http://ricanet.com/new/view.php?id=blog/080607  
-Boost::preprocessor 로 템플릿 코드 생성  http://rein.kr/blog/archives/486  
-boost::tuple 의 직렬화 코드	http://reiot.com/2009/02/17/boost-preprocessor/  
-  http://www.kmonos.net/alang/boost/classes/preprocessor.html  
-http://d.hatena.ne.jp/DigitalGhost/searchdiary?word=*[Preprocessor]&  
-  http://d.hatena.ne.jp/mb2sync/archive?word=*[Boost.Preprocessor]  
-  http://slashdot.jp/~A7M/journal/481116  
-  http://idlysphere.blog66.fc2.com/blog-entry-175.html  
-  http://cpplover.blogspot.com/2008/07/blog-post_17.html  
-  
-  
-  
-## mpl 
-Try to use boost.mpl  http://www.slideshare.net/Suikaba/try-to-use-boostmpl     
-'11年代のMPL  https://kikairoya.hatenablog.com/entry/20111206/1323183937   
-  
-  
-  
-## PP 
-Boost PP  http://www.slideshare.net/Suikaba/try-to-use-boostmpl   
-明日から使える boost/preprocessor/facilities/  https://dechimal.hatenadiary.com/entry/20101214/1292354432   
-BOOST_PP_REPEATの仕組み  https://qiita.com/hikarin522/items/5329647ec2a542653f68  
-BOOST_PP_REPEAT  http://nekko1119.hatenablog.com/entry/2013/05/01/010105   
-Boost.PP 闇魔術を触ってみた  http://www.slideshare.net/DtYaZsK/ss-32425592  
-  
-  
-  
-## wave 
-http://www.ruche-home.net/program/boost/wave   
-  
-  
-  
 ## 직렬화
 Boost  직렬화에서 사용하고 있는 싱글톤   http://d.hatena.ne.jp/redboltz/20100226/1267140671  
   
@@ -223,50 +264,6 @@ Type Driven Wire Protocols with Boost Fusion  http://rodgert.github.io/2014/09/0
   
   
   
-##TypeErasure 
-Boost.TypeErasure を使ってみる  http://d.hatena.ne.jp/osyo-manga/20121202/1354456126   
-Boost.TypeErasureのドキュメントを翻訳してみた  http://d.hatena.ne.jp/gununu/20130705/1372983790  
-  
-  
-  
-## TTI
-Boost.TTI を使ってみる  http://d.hatena.ne.jp/osyo-manga/20130707/1373170326   
-Boost.TTI  http://d.hatena.ne.jp/osyo-manga/20111230/1325213907   
-C++03で、特定のメンバ関数が存在するかを判定する http://faithandbrave.hateblo.jp/entry/2014/04/14/152959   
-  
-  
-  
-## 컨테이너
-boost::container で俺俺アロケ?タ  http://www.6809.net/tenk/?%E9%9B%91%E8%A8%98%2f2012-12-14  
-stable_vector  http://d.hatena.ne.jp/fjnl/20111207/1323269108  
-static_vector  http://d.hatena.ne.jp/faith_and_brave/20130712/1373614497   
-boost 1.48.0 flat_set はえー  http://blogs.wankuma.com/episteme/archive/2012/01/21/250181.aspx  
-Boost.Heap コンテナの設定  http://d.hatena.ne.jp/faith_and_brave/20120510/1336641311  
-Intrusive data structure 소개  http://www.slideshare.net/ohyecloudy/intrusive-data-structure   
-Boost.Containerのフツーじゃないコンテナたち  http://codezine.jp/article/detail/8259   
-static_vectorとsmall_vector https://qiita.com/shohirose/items/54d75b12abd452ee2786   
-   
-  
-  
-## multi_index
-Boost 설명서 http://www24.atwiki.jp/reisiki/pages/59.html   
-간단 사용법 http://d.hatena.ne.jp/osyo-manga/20101030/1288408414 , http://grayhole.blogspot.com/2009/03/boostmultiindex.html   
-편리한 조건에 대해서 http://d.hatena.ne.jp/sakura-1/20090816/1250429894  ,  http://d.hatena.ne.jp/sakura-1/20090818#1250599374  
-바운드리 검색 http://www.boost.org/doc/libs/1_47_0/libs/multi_index/doc/tutorial/basics.html  
-Key modify http://d.hatena.ne.jp/faith_and_brave/20100625/1277450332  
-Boost.MultiIndex - member_offset http://d.hatena.ne.jp/faith_and_brave/20110510/1305001676   
-(1.59 이상)Boost.Multi-index ランク付きインデックス http://faithandbrave.hateblo.jp/entry/2015/07/22/144646   
-  
-  
-## Pool
-shared_ptr는 내부에 참조 카운트 용으로 new에서 메모리를 확보하므로 메모리 풀과 결합하는 방법이 까다롭고 boost::intrusive_ptr와 조합하는 방법이 편하다.  
-메모리를 확보한 순서로 메모리 해제를 하면 object_pool 이 boost::pool 보다 느리다.  
-  
-C++/Boost boost::poolの大まかな使い方   http://blogs.yahoo.co.jp/nanashi_hippie/52188424.html   
-boostのobject_poolをスマートポインタで利用する   http://d.hatena.ne.jp/ytakano/20100317/1268778286   
-  
-  
-  
 ## boost::signals2
 튜토리얼  http://docs.google.com/Doc?id=ddcwmgjq_12hdhr8tcw  
 boostjp  https://sites.google.com/site/boostjp/tips/signals   
@@ -286,7 +283,6 @@ boost::signals2  http://nekko1119.hatenablog.com/entry/20121108/1352356571
 boost::graphのお勉強  http://qiita.com/kktk-KO/items/6c53e1c550cae441c969   
 boostのグラフ別，動作の違い  http://folioscope.hatenablog.jp/entry/2012/10/31/224238   
 Boost.GraphでJR全線乗り尽くしプランを立てる - プログラミング生放送  http://www.slideshare.net/maraigue/chinese-postman
-  
   
 http://boost.cppll.jp/HEAD/libs/graph/doc/graph_theory_review.html 
 http://d.hatena.ne.jp/faith_and_brave/20100413/1271129607
