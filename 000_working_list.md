@@ -3,28 +3,10 @@ https://www.boost.org/
   
 [(일어)boost 라이브러리 정보](http://boostjp.github.io/  )    
   
-Boost.HOFについて  https://nekko1119.hatenablog.com/entry/2018/08/24/010924   
-Boost String Algorithms Library http://d.hatena.ne.jp/kanetai/20111017/1318846372      
-Boost で文字列の置換  http://d.hatena.ne.jp/osyo-manga/20120512/1336811661  
 参照を保持するコンテナ  http://faithandbrave.hateblo.jp/entry/20110519/1305789940  
 boost::in_place  http://nekko1119.hatenablog.com/entry/20121122/1353577143     
 プラグインシステムを Boost.DLL で簡単に実装する紹介  http://qiita.com/usagi/items/0722550dc5433bd07139   
   
-  
-Boost offset_ptrと共有メモリとmmap  http://www.jinmei.org/blog/2012/05/20/3126   
-PropertyTree  http://d.hatena.ne.jp/tt_clown/20091022/1256205859   
-boost로 선현대수 입문  http://www.slideshare.net/wof_moriguchi/boost-8139529  
-  
-boost::numeric::interval<int>  
-http://qiita.com/t_uda/items/e4f554b8af864b638a6d   
-http://qiita.com/t_uda/items/abcf31a7b1787604a4f4   
-http://qiita.com/items/e08ca64b318917e6d4ab   
-boost::numeric::interval<int>(0): C++ Boost 区間演算ライブラリ 概要  http://qiita.com/t_uda/items/7712671389e016d24df6   
-  
-Boost.Flyweightのお勉?  http://tips.hecomi.com/entry/20111022/1319302933    
-boost::multiprecision の使い方メモ  http://qiita.com/tubo28/items/fa8ee013390184b0ba18     
-boost::processの子プロセスの入力を閉じる    https://qiita.com/cielavenir/items/9219162170cf2dd8b144  
-BoostCon 2011の「Practical SIMD acceleration with Boost.SIMD」を日本語?しました  http://www.slideshare.net/faithandbrave/boostsimd     
   
   
   
@@ -43,14 +25,7 @@ C++03で、特定のメンバ関数が存在するかを判定する http://fait
   
 ## 컨테이너
 boost::container で俺俺アロケ?タ  http://www.6809.net/tenk/?%E9%9B%91%E8%A8%98%2f2012-12-14  
-stable_vector  http://d.hatena.ne.jp/fjnl/20111207/1323269108  
-static_vector  http://d.hatena.ne.jp/faith_and_brave/20130712/1373614497   
-boost 1.48.0 flat_set はえー  http://blogs.wankuma.com/episteme/archive/2012/01/21/250181.aspx  
-Boost.Heap コンテナの設定  http://d.hatena.ne.jp/faith_and_brave/20120510/1336641311  
-Intrusive data structure 소개  http://www.slideshare.net/ohyecloudy/intrusive-data-structure   
-Boost.Containerのフツーじゃないコンテナたち  http://codezine.jp/article/detail/8259   
-static_vectorとsmall_vector https://qiita.com/shohirose/items/54d75b12abd452ee2786   
-  
+   
   
   
 ## multi_index
@@ -78,6 +53,23 @@ Boost PP  http://www.slideshare.net/Suikaba/try-to-use-boostmpl
 BOOST_PP_REPEATの仕組み  https://qiita.com/hikarin522/items/5329647ec2a542653f68  
 BOOST_PP_REPEAT  http://nekko1119.hatenablog.com/entry/2013/05/01/010105   
 Boost.PP 闇魔術を触ってみた  http://www.slideshare.net/DtYaZsK/ss-32425592  
+  
+  
+  
+Boost offset_ptrと共有メモリとmmap  http://www.jinmei.org/blog/2012/05/20/3126   
+PropertyTree  http://d.hatena.ne.jp/tt_clown/20091022/1256205859   
+boost로 선현대수 입문  http://www.slideshare.net/wof_moriguchi/boost-8139529  
+  
+boost::numeric::interval<int>  
+http://qiita.com/t_uda/items/e4f554b8af864b638a6d   
+http://qiita.com/t_uda/items/abcf31a7b1787604a4f4   
+http://qiita.com/items/e08ca64b318917e6d4ab   
+boost::numeric::interval<int>(0): C++ Boost 区間演算ライブラリ 概要  http://qiita.com/t_uda/items/7712671389e016d24df6   
+  
+Boost.Flyweightのお勉?  http://tips.hecomi.com/entry/20111022/1319302933    
+boost::multiprecision の使い方メモ  http://qiita.com/tubo28/items/fa8ee013390184b0ba18     
+boost::processの子プロセスの入力を閉じる    https://qiita.com/cielavenir/items/9219162170cf2dd8b144  
+BoostCon 2011の「Practical SIMD acceleration with Boost.SIMD」を日本語?しました  http://www.slideshare.net/faithandbrave/boostsimd     
   
   
   
