@@ -13,21 +13,14 @@ https://www.boost.org/doc/libs/1_72_0/doc/html/stacktrace.html
 https://www.boost.org/doc/libs/1_72_0/libs/vmd/doc/html/index.html  
 https://www.boost.org/doc/libs/1_72_0/doc/html/yap.html  
   
-  
-  
+    
 boost stack trace  
 https://theolizer.com/cpp-school2/cpp-school2-28/  
 https://theolizer.com/cpp-school2/cpp-school2-29/  
 https://theolizer.com/cpp-school2/cpp-school2-31/  
     
-  
-参照を保持するコンテナ  http://faithandbrave.hateblo.jp/entry/20110519/1305789940  
-boost::in_place  http://nekko1119.hatenablog.com/entry/20121122/1353577143     
-プラグインシステムを Boost.DLL で簡単に実装する紹介  http://qiita.com/usagi/items/0722550dc5433bd07139   
-  
-  
-  
-  
+       
+    
 ##TypeErasure 
 Boost.TypeErasure を使ってみる  http://d.hatena.ne.jp/osyo-manga/20121202/1354456126   
 Boost.TypeErasureのドキュメントを翻訳してみた  http://d.hatena.ne.jp/gununu/20130705/1372983790  
@@ -83,35 +76,7 @@ Try to use boost.mpl  http://www.slideshare.net/Suikaba/try-to-use-boostmpl
 ## wave 
 http://www.ruche-home.net/program/boost/wave   
   
-## Boost.Context
-Boost.Context について調べた  http://d.hatena.ne.jp/melpon/20111213/1323704464    
-  
-Continuation with Boost.Context  http://www.slideshare.net/faithandbrave/continuation-with-boostcontext   
-  
-Boost.Context 非同期?理を逐次的にする  http://d.hatena.ne.jp/faith_and_brave/20120329/1333008572     
-  
-boost.contextを使ってみました  http://d1z.cocolog-nifty.com/blog/2012/02/boostcontext-ac.html   
-  
-Boost.Contextでファイバ?ライブラリを??してみた  http://yohhoy.hatenablog.jp/entry/2012/04/10/003735   
-   
-  
-Coroutine , fiber 実行コンテキストの抽象化ライブラリ達  
-http://www.flast.jp/article/boost-21-sapporo/index.html   
-http://www.flast.jp/article/boost-21-sapporo/execution.html   
-  
-Boost.Coroutineのローカル変数の寿命   http://d.hatena.ne.jp/y_mazun/20130205/1360077844   
-  
-Boost.Coroutine でフィボナッチ  http://d.hatena.ne.jp/osyo-manga/20130209/1360412742   
-  
-Boost.Coroutine  http://d.hatena.ne.jp/joynote/20131118/1384779314   
-  
-C++ のコルーチン boost::coroutines を使ってみる  http://qiita.com/kobake@github/items/506b5ff128dc1372cd1d   
-  
-C++14 & boost::{coroutines|signals2} -> yieldable task system  http://qiita.com/usagi/items/6dad042e20ef1fe9f91c   
-  
-Visual C++ CoroutineとBoost Coroutine  http://sayurin.blogspot.kr/2016/07/visual-c-coroutineboost-coroutine_9.html   
-  
-  
+
   
 ## Algorithm 
 Algorithm clamp  
@@ -186,22 +151,6 @@ boost::interprocess::message_queueを使ってプロセス間通信  https://qii
 ## Fusion
 Boost.Fusionでreplicate  http://d.hatena.ne.jp/faith_and_brave/20120720/1342768623   
 Type Driven Wire Protocols with Boost Fusion  http://rodgert.github.io/2014/09/09/type-driven-wire-protocols-with-boost-fusion-pt1/   
-  
-  
-  
-## boost::signals2
-튜토리얼  http://docs.google.com/Doc?id=ddcwmgjq_12hdhr8tcw  
-boostjp  https://sites.google.com/site/boostjp/tips/signals   
-boost::signals2 が便利そうな件について  http://d.hatena.ne.jp/gintenlabo/20091201/1259671954   
-Observerパタ?ン  http://w.livedoor.jp/programming/d/Signals2   
-Boost.Signals2 切?  http://d.hatena.ne.jp/faith_and_brave/20110131/1296458381   
-Boost.Signals2 を Boost.Parameter を使用して定義する  http://d.hatena.ne.jp/osyo-manga/20110816/1313449833   
-Boost.Signals2 で呼ばれる??に優先順位を付ける  http://d.hatena.ne.jp/osyo-manga/20110815/1313366926   
-デリゲ?トまたはイベントハンドラをC++で??するならBoost.FunctionよりもBoost.Signals2を使おう。 http://d.hatena.ne.jp/poyonon/20111110/1320933772   
-C++ で、Model-View-Controller とか  http://d.hatena.ne.jp/osyo-manga/20110721/1311240737   
-シグナル・スロット(Signal/Slot)の仕組みをBoost.Signal2で試してみる  http://qiita.com/kaoru/items/b8b39899ee4c771c2518   
-boost::signals2  http://nekko1119.hatenablog.com/entry/20121108/1352356571   
-  
   
   
 ## QVM
