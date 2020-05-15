@@ -21,17 +21,20 @@ https://theolizer.com/cpp-school2/cpp-school2-31/
     
        
     
-##TypeErasure 
-Boost.TypeErasure を使ってみる  http://d.hatena.ne.jp/osyo-manga/20121202/1354456126   
-Boost.TypeErasureのドキュメントを翻訳してみた  http://d.hatena.ne.jp/gununu/20130705/1372983790  
+## Geometry 
+Boost.Geometryの設計がすごい  http://mmiyano.blogspot.com/2012/02/boostgeometry.html  
+Boost.Geometryを使って2Dゲ?ム?たり判定で?をしたい  http://d.hatena.ne.jp/joynote/20111009/1318171529  
+Boost.Geometry touches  http://d.hatena.ne.jp/faith_and_brave/20120718/1342597171   
   
   
   
-## TTI
-Boost.TTI を使ってみる  http://d.hatena.ne.jp/osyo-manga/20130707/1373170326   
-Boost.TTI  http://d.hatena.ne.jp/osyo-manga/20111230/1325213907   
-C++03で、特定のメンバ関数が存在するかを判定する http://faithandbrave.hateblo.jp/entry/2014/04/14/152959   
-  
+## Boost.Interprocess
+Boost.interprocess  http://sssslide.com/www.slideshare.net/krustf/boostinterprocess-10461625  
+Boost.Interprocess 共有メモリ操作  http://nox-insomniae.ddo.jp/insomnia/2012/03/boost-interprocess-shm-operation.html   
+Shared Memory Word Binary Tree  http://nox-insomniae.ddo.jp/insomnia/2012/04/shared-memory-word-binary-tree.html  
+boost - Interprocess Communication, Shared Memory  http://jeremyko.blogspot.kr/2012/04/boost-interprocess-communication-shared.html 
+http://jeremyko.blogspot.kr/2012/04/boost-interprocess-communication-shared_04.html  http://jeremyko.blogspot.kr/2012/04/boost-interprocess-communication-shared_2818.html  
+boost::interprocess::message_queueを使ってプロセス間通信  https://qiita.com/ondorela/items/ba5ddc1cb0bef8d4b200   
   
   
   
@@ -52,20 +55,23 @@ BoostCon 2011の「Practical SIMD acceleration with Boost.SIMD」を日本語?�
   
   
   
-  
-  
-## program_options
-boost::program_options   http://nekko1119.hatenablog.com/entry/20130414/1365921531   
-コマンドライン引?をboost::program_optionsで格納   http://tips.hecomi.com/entry/20110210/1297353366   
-  
-  
-  
 ## Beast 
 beast_http_server  https://github.com/0xdead4ead/beast_http_server   
 Boost.Beast で websocket の handshake に custom request header をつける方法  https://qiita.com/UedaTakeyuki/items/9b8fcc344690b8e7cded  
   
   
    
+##TypeErasure 
+Boost.TypeErasure を使ってみる  http://d.hatena.ne.jp/osyo-manga/20121202/1354456126   
+Boost.TypeErasureのドキュメントを翻訳してみた  http://d.hatena.ne.jp/gununu/20130705/1372983790  
+  
+  
+  
+## TTI
+Boost.TTI を使ってみる  http://d.hatena.ne.jp/osyo-manga/20130707/1373170326   
+Boost.TTI  http://d.hatena.ne.jp/osyo-manga/20111230/1325213907   
+C++03で、特定のメンバ関数が存在するかを判定する http://faithandbrave.hateblo.jp/entry/2014/04/14/152959   
+  
   
 ## mpl 
 Try to use boost.mpl  http://www.slideshare.net/Suikaba/try-to-use-boostmpl     
@@ -75,17 +81,6 @@ Try to use boost.mpl  http://www.slideshare.net/Suikaba/try-to-use-boostmpl
   
 ## wave 
 http://www.ruche-home.net/program/boost/wave   
-  
-
-  
-## Algorithm 
-Algorithm clamp  
-http://d.hatena.ne.jp/faith_and_brave/20120704/1341382789  
-http://d.hatena.ne.jp/faith_and_brave/20120705/1341471158  
-  
-Algorithm hex  http://d.hatena.ne.jp/faith_and_brave/20120706/1341558540  
-  
-Boost.Algorithm ?索アルゴリズム  http://d.hatena.ne.jp/faith_and_brave/20120709/1341820912  
   
   
   
@@ -128,23 +123,6 @@ http://0x35.tumblr.com/post/16706887475/boost-proto
   
 ## 직렬화
 Boost  직렬화에서 사용하고 있는 싱글톤   http://d.hatena.ne.jp/redboltz/20100226/1267140671  
-  
-  
-  
-## Geometry 
-Boost.Geometryの設計がすごい  http://mmiyano.blogspot.com/2012/02/boostgeometry.html  
-Boost.Geometryを使って2Dゲ?ム?たり判定で?をしたい  http://d.hatena.ne.jp/joynote/20111009/1318171529  
-Boost.Geometry touches  http://d.hatena.ne.jp/faith_and_brave/20120718/1342597171   
-  
-  
-  
-## Boost.Interprocess
-Boost.interprocess  http://sssslide.com/www.slideshare.net/krustf/boostinterprocess-10461625  
-Boost.Interprocess 共有メモリ操作  http://nox-insomniae.ddo.jp/insomnia/2012/03/boost-interprocess-shm-operation.html   
-Shared Memory Word Binary Tree  http://nox-insomniae.ddo.jp/insomnia/2012/04/shared-memory-word-binary-tree.html  
-boost - Interprocess Communication, Shared Memory  http://jeremyko.blogspot.kr/2012/04/boost-interprocess-communication-shared.html 
-http://jeremyko.blogspot.kr/2012/04/boost-interprocess-communication-shared_04.html  http://jeremyko.blogspot.kr/2012/04/boost-interprocess-communication-shared_2818.html  
-boost::interprocess::message_queueを使ってプロセス間通信  https://qiita.com/ondorela/items/ba5ddc1cb0bef8d4b200   
   
   
   
