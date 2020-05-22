@@ -13,20 +13,16 @@ https://www.boost.org/doc/libs/1_72_0/doc/html/stacktrace.html
 https://www.boost.org/doc/libs/1_72_0/libs/vmd/doc/html/index.html  
 https://www.boost.org/doc/libs/1_72_0/doc/html/yap.html  
   
-    
-boost stack trace  
+
+
+
+  
+### boost stack trace  
 https://theolizer.com/cpp-school2/cpp-school2-28/  
 https://theolizer.com/cpp-school2/cpp-school2-29/  
 https://theolizer.com/cpp-school2/cpp-school2-31/  
     
-       
-    
-## Geometry 
-Boost.Geometryの設計がすごい  http://mmiyano.blogspot.com/2012/02/boostgeometry.html  
-Boost.Geometryを使って2Dゲ?ム?たり判定で?をしたい  http://d.hatena.ne.jp/joynote/20111009/1318171529  
-Boost.Geometry touches  http://d.hatena.ne.jp/faith_and_brave/20120718/1342597171   
-  
-  
+ 
   
 ## Boost.Interprocess
 Boost.interprocess  http://sssslide.com/www.slideshare.net/krustf/boostinterprocess-10461625  
@@ -42,11 +38,6 @@ Boost offset_ptrと共有メモリとmmap  http://www.jinmei.org/blog/2012/05/20
 PropertyTree  http://d.hatena.ne.jp/tt_clown/20091022/1256205859   
 boost로 선현대수 입문  http://www.slideshare.net/wof_moriguchi/boost-8139529  
   
-boost::numeric::interval<int>  
-http://qiita.com/t_uda/items/e4f554b8af864b638a6d   
-http://qiita.com/t_uda/items/abcf31a7b1787604a4f4   
-http://qiita.com/items/e08ca64b318917e6d4ab   
-boost::numeric::interval<int>(0): C++ Boost 区間演算ライブラリ 概要  http://qiita.com/t_uda/items/7712671389e016d24df6   
   
 Boost.Flyweightのお勉?  http://tips.hecomi.com/entry/20111022/1319302933    
 boost::multiprecision の使い方メモ  http://qiita.com/tubo28/items/fa8ee013390184b0ba18     
