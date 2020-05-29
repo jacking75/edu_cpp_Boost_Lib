@@ -1,8 +1,8 @@
 # 정리 작업 리스트
 https://www.boost.org/  
 [(일어)boost 라이브러리 정보](http://boostjp.github.io/  )    
-  
-  
+    
+   
 https://www.boost.org/doc/libs/1_72_0/doc/html/atomic/usage_examples.html  
 https://www.boost.org/doc/libs/1_72_0/doc/html/container.html  
 https://www.boost.org/doc/libs/1_72_0/doc/html/hash.html  
@@ -12,39 +12,8 @@ https://www.boost.org/doc/libs/1_72_0/libs/parameter/doc/html/index.html
 https://www.boost.org/doc/libs/1_72_0/doc/html/stacktrace.html  
 https://www.boost.org/doc/libs/1_72_0/libs/vmd/doc/html/index.html  
 https://www.boost.org/doc/libs/1_72_0/doc/html/yap.html  
-  
-
-
-
-  
-### boost stack trace  
-https://theolizer.com/cpp-school2/cpp-school2-28/  
-https://theolizer.com/cpp-school2/cpp-school2-29/  
-https://theolizer.com/cpp-school2/cpp-school2-31/  
     
- 
-  
-## Boost.Interprocess
-Boost.interprocess  http://sssslide.com/www.slideshare.net/krustf/boostinterprocess-10461625  
-Boost.Interprocess 共有メモリ操作  http://nox-insomniae.ddo.jp/insomnia/2012/03/boost-interprocess-shm-operation.html   
-Shared Memory Word Binary Tree  http://nox-insomniae.ddo.jp/insomnia/2012/04/shared-memory-word-binary-tree.html  
-boost - Interprocess Communication, Shared Memory  http://jeremyko.blogspot.kr/2012/04/boost-interprocess-communication-shared.html 
-http://jeremyko.blogspot.kr/2012/04/boost-interprocess-communication-shared_04.html  http://jeremyko.blogspot.kr/2012/04/boost-interprocess-communication-shared_2818.html  
-boost::interprocess::message_queueを使ってプロセス間通信  https://qiita.com/ondorela/items/ba5ddc1cb0bef8d4b200   
-  
-  
-  
-Boost offset_ptrと共有メモリとmmap  http://www.jinmei.org/blog/2012/05/20/3126   
-PropertyTree  http://d.hatena.ne.jp/tt_clown/20091022/1256205859   
-boost로 선현대수 입문  http://www.slideshare.net/wof_moriguchi/boost-8139529  
-  
-  
-Boost.Flyweightのお勉?  http://tips.hecomi.com/entry/20111022/1319302933    
-boost::multiprecision の使い方メモ  http://qiita.com/tubo28/items/fa8ee013390184b0ba18     
-boost::processの子プロセスの入力を閉じる    https://qiita.com/cielavenir/items/9219162170cf2dd8b144  
-BoostCon 2011の「Practical SIMD acceleration with Boost.SIMD」を日本語?しました  http://www.slideshare.net/faithandbrave/boostsimd     
-  
-  
+      
   
 ## Beast 
 beast_http_server  https://github.com/0xdead4ead/beast_http_server   
