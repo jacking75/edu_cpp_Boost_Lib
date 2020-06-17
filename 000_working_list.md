@@ -12,26 +12,13 @@ https://www.boost.org/doc/libs/1_72_0/libs/parameter/doc/html/index.html
 https://www.boost.org/doc/libs/1_72_0/doc/html/stacktrace.html  
 https://www.boost.org/doc/libs/1_72_0/libs/vmd/doc/html/index.html  
 https://www.boost.org/doc/libs/1_72_0/doc/html/yap.html  
-    
       
-  
-## Beast 
-beast_http_server  https://github.com/0xdead4ead/beast_http_server   
-Boost.Beast で websocket の handshake に custom request header をつける方法  https://qiita.com/UedaTakeyuki/items/9b8fcc344690b8e7cded  
-  
-  
-   
+     
 ##TypeErasure 
 Boost.TypeErasure を使ってみる  http://d.hatena.ne.jp/osyo-manga/20121202/1354456126   
 Boost.TypeErasureのドキュメントを翻訳してみた  http://d.hatena.ne.jp/gununu/20130705/1372983790  
   
-  
-  
-## TTI
-Boost.TTI を使ってみる  http://d.hatena.ne.jp/osyo-manga/20130707/1373170326   
-Boost.TTI  http://d.hatena.ne.jp/osyo-manga/20111230/1325213907   
-C++03で、特定のメンバ関数が存在するかを判定する http://faithandbrave.hateblo.jp/entry/2014/04/14/152959   
-  
+    
   
 ## mpl 
 Try to use boost.mpl  http://www.slideshare.net/Suikaba/try-to-use-boostmpl     
