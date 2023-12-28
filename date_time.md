@@ -1,10 +1,11 @@
-### 개요
+# 개요
 - 날짜 계산 라이브러리.
 - Gregorial을 사용한다.
 
 
-### 사용 예
-#### 월의 마지막 날
+# 사용 예  
+  
+## 월의 마지막 날
 ```
 #include <iostream>
 #include <boost/date_time/gregorian/gregorian.hpp>
@@ -19,7 +20,7 @@ int main()
 // 출처: https://sites.google.com/site/boostjp/tips/date_time
 ```
 
-#### 날짜 더하기/빼기
+## 날짜 더하기/빼기
 - 년의 가감산에는 years 타입,  월의 가감산에는 months 타입, 날의 가감산에는 days 타입을 사용한다.
 
 ```
@@ -38,7 +39,7 @@ int main()
 //출처: https://sites.google.com/site/boostjp/tips/date_time
 ```
 
-#### UTL <-> LOCAL
+## UTL <-> LOCAL
 ```
 #include <iostream>
 
