@@ -1,7 +1,8 @@
 # Boost.Log
 [공식 문서](http://www.boost.org/doc/libs/1_73_0/libs/log/doc/html/index.html )   
 [샘플](http://bitter-development.blogspot.kr/2013/08/boostlog-20.html )  
-   
+
+https://boostjp.github.io/tips/logging.html     
 - (일어) [Boost.Log 사용하기](http://faithandbrave.hateblo.jp/entry/20130725/1374736211 )
 - (일어) [boost.Log 사용 방법을 공부](http://d.hatena.ne.jp/yamada28go/20140215/1392470561 )
 - (일어) [콘솔 화면과 파일에 로깅](http://daisukekobayashi.com/blog/boost-log-logging-console-windows-and-file )

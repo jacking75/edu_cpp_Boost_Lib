@@ -1,19 +1,26 @@
 # 정리 작업 리스트
 https://www.boost.org/  
 [(일어)boost 라이브러리 정보](http://boostjp.github.io/  )    
-    
-   
-https://www.boost.org/doc/libs/1_72_0/doc/html/atomic/usage_examples.html  
-https://www.boost.org/doc/libs/1_72_0/doc/html/container.html  
-https://www.boost.org/doc/libs/1_72_0/doc/html/hash.html  
-https://www.boost.org/doc/libs/1_72_0/doc/html/boost_dll.html  
-https://www.boost.org/doc/libs/1_72_0/doc/html/lockfree.html  
-https://www.boost.org/doc/libs/1_72_0/libs/parameter/doc/html/index.html  
-https://www.boost.org/doc/libs/1_72_0/doc/html/stacktrace.html  
-https://www.boost.org/doc/libs/1_72_0/libs/vmd/doc/html/index.html  
-https://www.boost.org/doc/libs/1_72_0/doc/html/yap.html  
+
+- boost.cobalt    https://www.boost.org/doc/libs/1_84_0/libs/cobalt/doc/html/index.html    
+- Boost.Redis  https://www.boost.org/doc/libs/1_84_0/libs/redis/doc/html/index.html
+- Boost.JSON  https://www.boost.org/doc/libs/1_84_0/libs/json/doc/html/index.html
+- Boost.MySQL  https://www.boost.org/doc/libs/1_84_0/libs/mysql/doc/html/index.html  
+- Boost.Beast  https://www.boost.org/doc/libs/1_84_0/libs/beast/doc/html/index.html
+- https://www.boost.org/doc/libs/1_84_0/doc/html/lockfree.html
+    - lockfree::queue  https://boostjp.github.io/tips/lockfree-queue.html  
+    - lockfree::stack  https://boostjp.github.io/tips/lockfree-stack.html   
+- Boost.ContainerHash  https://www.boost.org/doc/libs/1_84_0/libs/container_hash/doc/html/hash.html
+- https://www.boost.org/doc/libs/1_72_0/doc/html/atomic/usage_examples.html  
+- https://www.boost.org/doc/libs/1_72_0/doc/html/container.html  
+- https://www.boost.org/doc/libs/1_72_0/doc/html/hash.html  
+- https://www.boost.org/doc/libs/1_72_0/doc/html/boost_dll.html  
+- https://www.boost.org/doc/libs/1_72_0/libs/parameter/doc/html/index.html  
+- https://www.boost.org/doc/libs/1_84_0/doc/html/stacktrace.html  
+- https://www.boost.org/doc/libs/1_72_0/libs/vmd/doc/html/index.html  
+- https://www.boost.org/doc/libs/1_72_0/doc/html/yap.html  
+       
       
-     
 ## TypeErasure 
 Boost.TypeErasure を使ってみる  http://d.hatena.ne.jp/osyo-manga/20121202/1354456126   
 Boost.TypeErasureのドキュメントを翻訳してみた  http://d.hatena.ne.jp/gununu/20130705/1372983790  

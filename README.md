@@ -1,6 +1,8 @@
 # Boost 라이브러리 학습
-[강연 및 문서 자료](./000_lecture_document.md )    
+[Boost 라이브러리 공식 사이트](https://www.boost.org/ )     
   
+<br>  
+
 - [빌드 및 사용하기](./build.md )  
 - [Pool](./pool.md )
 - [in_place](./in_place.md )
@@ -31,7 +33,7 @@
 - [timer](./timer.md )
 - [string](./string.md)
   
-  
+
   
 <br>  
   
