@@ -2,8 +2,6 @@
 https://www.boost.org/  
 [(일어)boost 라이브러리 정보](http://boostjp.github.io/  )    
 
-- boost.cobalt    https://www.boost.org/doc/libs/1_84_0/libs/cobalt/doc/html/index.html    
-- Boost.Redis  https://www.boost.org/doc/libs/1_84_0/libs/redis/doc/html/index.html
 - Boost.JSON  https://www.boost.org/doc/libs/1_84_0/libs/json/doc/html/index.html
 - Boost.MySQL  https://www.boost.org/doc/libs/1_84_0/libs/mysql/doc/html/index.html  
 - Boost.Beast  https://www.boost.org/doc/libs/1_84_0/libs/beast/doc/html/index.html
